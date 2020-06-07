@@ -1,0 +1,86 @@
+@font-face {
+	font-family: 'OpenSans';
+	src:url('../fonts/OpenSans-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'OpenSansBold';
+	src:url('../fonts/OpenSans-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansBoldItalic';
+	src:url('../fonts/OpenSans-BoldItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansExBold';
+	src:url('../fonts/OpenSans-ExtraBold.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansExBoldIt';
+	src:url('../fonts/OpenSans-ExtraBoldItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansIta';
+	src:url('../fonts/OpenSans-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansLight';
+	src:url('../fonts/OpenSans-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSansLightItalic';
+	src:url('../fonts/OpenSans-LightItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+/*@font-face {
+	font-family: 'OpenSansRegular';
+	src:url('../fonts/OpenSans-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}*/
+@font-face {
+	font-family: 'OpenSansSmBold';
+	src:url('../fonts/OpenSans-Semibold.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'verdanab';
+	src:url('../fonts/verdanab.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'verdana';
+	src:url('../fonts/verdana.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'calibri';
+	src:url('../fonts/Calibri.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'calibribold';
+	src:url('../fonts/calibrib.ttf') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
